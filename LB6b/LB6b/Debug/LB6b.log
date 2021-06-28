@@ -1,0 +1,3 @@
+﻿  LB6b.cpp
+c:\users\diens\onedrive\рабочий стол\lb6b\lb6b\lb6b.cpp(299): warning C4101: exp: неиспользованная локальная переменная
+LINK : fatal error LNK1168: не удается открыть C:\Users\diens\OneDrive\Рабочий стол\LB6b\Debug\LB6b.exe для записи

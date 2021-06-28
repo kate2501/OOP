@@ -1,0 +1,3 @@
+﻿  ConsoleApplication1.cpp
+c:\users\diens\onedrive\рабочий стол\consoleapplication1\consoleapplication1\consoleapplication1.cpp(32): error C2440: инициализация: невозможно преобразовать "ClassA" в "ClassA"
+  c:\users\diens\onedrive\рабочий стол\consoleapplication1\consoleapplication1\consoleapplication1.cpp(32): note: Создать class "ClassA" с помощью конструктора копий невозможно, так как конструкторы копий неоднозначны или отсутствуют
